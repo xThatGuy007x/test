@@ -1,5 +1,5 @@
 # Robinhood
-![Robinhood Feather](https://play-lh.googleusercontent.com/9ORr_F5ji8mN…J4sQ4ACvOucKJ6UziAu9DFaF6iGx_JmTS_XsnSPZw=s360-rw)
+![Robinhood Feather](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDVnuvlxWvnMi7zbpWHQvsBUFBFWMUmaXGpw&usqp=CAU)
 ## Description
 ### Table of Contents
 [Robinhood Website](https://robinhood.com/)
